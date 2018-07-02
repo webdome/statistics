@@ -1,0 +1,13 @@
+{"id":"9gZUfHdtZZ","deviceWidth":375,"deviceHeight":667,"x":145,"y":70,"scroll":0}
+{"id":"FABxp2T4LL","deviceWidth":375,"deviceHeight":667,"x":200,"y":66,"scroll":0}
+{"id":"zcb1vvwEwI","deviceWidth":375,"deviceHeight":667,"x":215,"y":73,"scroll":0}
+{"id":"zcb1vvwEwI","deviceWidth":375,"deviceHeight":667,"x":291,"y":188,"scroll":0}
+{"id":"zcb1vvwEwI","deviceWidth":375,"deviceHeight":667,"x":254,"y":63,"scroll":0}
+{"id":"zcb1vvwEwI","deviceWidth":375,"deviceHeight":667,"x":185,"y":75,"scroll":0}
+{"id":"zcb1vvwEwI","deviceWidth":375,"deviceHeight":667,"x":305,"y":128,"scroll":0}
+{"id":"zcb1vvwEwI","deviceWidth":375,"deviceHeight":667,"x":288,"y":125,"scroll":0}
+{"id":"zcb1vvwEwI","deviceWidth":375,"deviceHeight":667,"x":231,"y":170,"scroll":0}
+{"id":"zcb1vvwEwI","deviceWidth":375,"deviceHeight":667,"x":218,"y":58,"scroll":0}
+{"id":"zcb1vvwEwI","deviceWidth":375,"deviceHeight":667,"x":218,"y":58,"scroll":0}
+{"id":"zcb1vvwEwI","deviceWidth":375,"deviceHeight":667,"x":218,"y":58,"scroll":0}
+{"id":"zcb1vvwEwI","deviceWidth":375,"deviceHeight":667,"x":218,"y":58,"scroll":0}
