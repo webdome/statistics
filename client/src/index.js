@@ -12,7 +12,7 @@ const axios = require('axios')
 
 const isTest = location.host.match(/192|122|127|172|36.7|localhost/) !== null
 
-const path = isTest ? 'http://192.168.31.122:4000' : ''
+const path = isTest ? 'http://192.168.31.122:4000' : 'http://116.85.24.95:4000'
 
 function getString(name) {
   var urlparams = location.search + '&' + (location.hash.split('?')[1]);
